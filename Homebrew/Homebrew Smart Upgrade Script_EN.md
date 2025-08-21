@@ -1,6 +1,6 @@
 # Homebrew Smart Upgrade Script
 
-A robust and intelligent shell script designed to streamline your Homebrew package management experience on macOS. This script goes beyond a simple `brew upgrade` by providing detailed version comparisons, pre-upgrade health checks, automatic cleanup, 和 dynamic terminal width adjustment for a perfectly formatted output.
+A robust 和 intelligent shell script designed to streamline your Homebrew package management experience on macOS. This script goes beyond a simple `brew upgrade` by providing detailed version comparisons, pre-upgrade health checks, automatic cleanup, 和 dynamic terminal width adjustment for a perfectly formatted output.
 
 ## ✨ Features
 

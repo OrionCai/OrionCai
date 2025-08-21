@@ -1,6 +1,6 @@
 # My Personal Script Library
 
-This repository is a collection of automation scripts I maintain, designed to streamline my daily development, operations, and analysis workflows. Each script aims to be **efficient, accurate, and easy to use**.
+This repository is a collection of automation scripts I maintain, designed to streamline my daily development, operations, 和 analysis workflows. Each script aims to be **efficient, accurate, and easy to use**.
 
 ## ✨ Script Overview
 

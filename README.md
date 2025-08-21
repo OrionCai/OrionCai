@@ -1,6 +1,6 @@
 # 我的个人脚本库
 
-@README-US.md
+[English Version](README_EN.md "Click to view English version")
 这个仓库是我个人收集和维护的自动化脚本，旨在简化我的日常开发、运维和分析工作流。每个脚本都力求**高效、准确且易于使用**。
 
 ## ✨ 脚本概览
